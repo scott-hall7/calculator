@@ -1,0 +1,1 @@
+The goal of this project is wrap up the introductory course for The Odin Project.
